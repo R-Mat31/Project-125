@@ -1,0 +1,29 @@
+#heading{
+ font-size : 37.5px;
+ width : 100%;
+ margin-top : 0px;
+ box-shadow : 4px 8px 20px powderblue;
+}
+#span{
+ font-size : 14px;
+ color : darkmagenta;
+ font-family : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#footer{
+ text-align : center;
+ width : 100%;
+ position : fixed;
+ bottom : 0;
+ color : black;
+ background-color : green;
+ font-size : 15px;
+}
+#emoji{
+ width : 20px;
+ height : 15px;
+}
+canvas{
+ border : ridge 2px powderblue;
+ border-radius : 100px;
+ box-shadow : black 5px 5px 10px;
+}
